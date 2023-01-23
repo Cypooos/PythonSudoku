@@ -1,5 +1,5 @@
 # PythonSudoku
-A sudoku generator &amp; player coded in python
+A sudoku generator &amp; player coded in python made in 11th Grade
 
 # How to play
  - Launch the program.
